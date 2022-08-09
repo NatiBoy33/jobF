@@ -59,7 +59,7 @@ npm start
 - replace favicon.ico in public
 - resource [Generate Favicons](https://favicon.io/)
 
-#### Normalize.css and Global Stylesm
+#### Normalize.css and Global Styles
 
 - CSS in JS (styled-components)
 - saves times on the setup
@@ -5420,3 +5420,4 @@ web: node server.js
 - git remote -v
 - add env variables
 - git push heroku main/master
+
